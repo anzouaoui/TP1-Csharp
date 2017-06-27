@@ -1,0 +1,6 @@
+c:\users\zouaoui\documents\visual studio 2017\Projects\TP1-Variables et Instructions\TP1-Variables et Instructions\bin\Debug\TP1-Variables et Instructions.exe.config
+c:\users\zouaoui\documents\visual studio 2017\Projects\TP1-Variables et Instructions\TP1-Variables et Instructions\bin\Debug\TP1-Variables et Instructions.exe
+c:\users\zouaoui\documents\visual studio 2017\Projects\TP1-Variables et Instructions\TP1-Variables et Instructions\bin\Debug\TP1-Variables et Instructions.pdb
+c:\users\zouaoui\documents\visual studio 2017\Projects\TP1-Variables et Instructions\TP1-Variables et Instructions\obj\Debug\TP1-Variables et Instructions.csprojResolveAssemblyReference.cache
+c:\users\zouaoui\documents\visual studio 2017\Projects\TP1-Variables et Instructions\TP1-Variables et Instructions\obj\Debug\TP1-Variables et Instructions.exe
+c:\users\zouaoui\documents\visual studio 2017\Projects\TP1-Variables et Instructions\TP1-Variables et Instructions\obj\Debug\TP1-Variables et Instructions.pdb
