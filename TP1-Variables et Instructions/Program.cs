@@ -10,6 +10,7 @@ namespace TP1_Variables_et_Instructions
     {
         static void Main(string[] args)
         {
+            #region EXERCICE 1
             decimal moyenne = 0;
             decimal nombre1, nombre2, nombre3;
 
@@ -25,6 +26,11 @@ namespace TP1_Variables_et_Instructions
             moyenne = (nombre1 + nombre2 + nombre3) / 3;
             Console.WriteLine("La moyenne est de {0}", moyenne);
             Console.ReadLine();
+            #endregion
+
+            #region EXERCICE 2
+
+            #endregion  
         }
     }
 }
